@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-gitDefinition = "A system used for source code management"
+let gitDefinition = "A system used for source code management"
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@ gitDefinition = "A system used for source code management"
 */
 
 //CODE HERE
-gitHubDefinition = "A platform that lets you work with others on coding projects from anywhere"
+let gitHubDefinition = "A platform that lets you work with others on coding projects from anywhere"
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,7 +26,7 @@ gitHubDefinition = "A platform that lets you work with others on coding projects
 */
 
 //CODE HERE
-gitInitDefinition = "Means to initialize a local repository int the current folder"
+let gitInitDefinition = "Means to initialize a local repository int the current folder"
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,7 +34,7 @@ gitInitDefinition = "Means to initialize a local repository int the current fold
 */
 
 //CODE HERE
-gitCloneDefinition = "Points to an existing repository and makes a copy of it"
+let gitCloneDefinition = "Points to an existing repository and makes a copy of it"
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,7 +42,7 @@ gitCloneDefinition = "Points to an existing repository and makes a copy of it"
 */
 
 //CODE HERE
-gitStatusDefinition = "Tells you about the current repository"
+let gitStatusDefinition = "Tells you about the current repository"
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,8 +53,8 @@ gitStatusDefinition = "Tells you about the current repository"
 */
 
 //CODE HERE
-gitAddDefinition = "Is where you log the changes that have been since its last 'commit'"
-gitAddCode = "Adds files that need to be tracked"
+let gitAddDefinition = "Is where you log the changes that have been since its last 'commit'"
+let gitAddCode = "Adds files that need to be tracked"
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -65,12 +65,12 @@ gitAddCode = "Adds files that need to be tracked"
 */
 
 //CODE HERE
-gitCommitDefinition = "Creates a snapshot of the files you're tracking"
-gitCommitCode = " git commit -m 'commit message'"
+let gitCommitDefinition = "Creates a snapshot of the files you're tracking"
+let gitCommitCode = " git commit -m 'commit message'"
 //////////////////PROBLEM 8////////////////////
 /*
     Create a variable called 'gitPushDefinition'.  
     It should be a string containing your best definition of what 'git push' does.
-*/gitPushDefinition = "Uploads your local repository content to a remote repository"
+*/let gitPushDefinition = "Uploads your local repository content to a remote repository"
 
 //CODE HERE
