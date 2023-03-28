@@ -4,6 +4,8 @@
 const faveColors = ['red', 'green', 'black']
 
 //CODE HERE
+let colorCopy = faveColors
+
 colorCopy = faveColors.slice()
 console.log(colorCopy)
 //////////////////PROBLEM 2////////////////////
@@ -21,8 +23,8 @@ console.log(colorCopy)
 const numbers = [1, 2, 3, 4, 5]
 
 //CODE HERE
-middleNums = numbers.shift()
-middleNums = numbers.pop()
+let middleNums = numbers.shift()
+let iddleNums = numbers.pop()
 console.log(`${numbers}`)
 
 //////////////////PROBLEM 4////////////////////
